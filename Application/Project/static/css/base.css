@@ -1,0 +1,47 @@
+body{
+    text-decoration: none;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(251, 253, 251, 0.474),rgb(58, 57, 56));
+    background-attachment: fixed;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: black;
+    line-height: 1.5;
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+    padding: 35px 15px;
+    text-align: center;
+}
+h1{
+    color: black;
+    font-size: 20px;
+    font-family: "Arial Black";
+}
+.logo{
+    width: 300px;
+    padding: 0px;
+    height: 300px;
+    border-radius: 10px;
+}
+/*.header {*/
+/*  display: flex;*/
+/*  !*align-items: baseline;*!*/
+/*  padding: .5rem;*/
+/*  gap: 1rem;*/
+/*  justify-content: flex-end;*/
+/*}*/
+
+.log{
+    /*position: relative;*/
+    /*width: 100px;*/
+    /*float:left;*/
+    /*margin-top:0;*/
+    /*!*cursor: pointer;*!*/
+    position: relative;
+    margin: 10px 15px 15px 10px;
+    float: left;
+    height: 60px;
+    width: 45px;
+    border-radius:20%;
+}
